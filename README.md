@@ -54,6 +54,16 @@ This is an example of a Node.js shield with its official color and written in bl
 [![andoid][andoid]][andoid-url]
 [![postgres][postgres]][postgres-url]
 [![cplusplus][cplusplus]][cplusplus-url]
+[![git][git]][git-url]
+[![GitHub][GitHub]][GitHub-url]
+[![HTML5][HTML5]][HTML5-url]
+[![CSS3][CSS3]][CSS3-url]
+[![Bootstrap][Bootstrap.com]][Bootstrap-url]
+[![railway][railway]][railway-url]
+[![mongo][mongo]][mongo-url]
+[![axios][axios]][axios-url]
+[![Bash][Bash]][Bash-url]
+[![Docker][Docker]][Docker-url]
 
 [Node.js-card]: https://img.shields.io/badge/-Node.js-80BC02?style=for-the-badge&logo=node.js&logoColor=black
 [Node.js-url]: https://nodejs.org/en
@@ -114,3 +124,33 @@ This is an example of a Node.js shield with its official color and written in bl
 
 [cplusplus]: https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black
 [cplusplus-url]: https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170
+
+[git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
+[git-url]: https://git-scm.com/doc
+
+[GitHub]: https://img.shields.io/badge/git_hub-181717?style=for-the-badge&logo=github&logoColor=white
+[GitHub-url]: https://github.com/
+
+[HTML5]: https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML5-URL]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+
+[CSS3]: https://img.shields.io/badge/css_3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS3-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+
+[railway]: https://img.shields.io/badge/railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white
+[railway-url]: https://railway.app/
+
+[mongo]: https://img.shields.io/badge/mongodb-5A29E4?style=for-the-badge&logo=mongodb&logoColor=white
+[mongo-url]: https://www.mongodb.com/
+
+[axios]: https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white
+[axios-url]: https://axios-http.com/ptbr/docs/intro
+
+[Bash]: https://img.shields.io/badge/GNU_bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white
+[Bash-url]: https://www.gnu.org/software/bash/
+
+[Docker]: https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com/
