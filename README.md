@@ -50,6 +50,10 @@ This is an example of a Node.js shield with its official color and written in bl
 [![Jest][Jest]][Jest-url]
 [![Linux][Linux]][Linux-url]
 [![Windows][Windows]][Windows-url]
+[![.NET][.NET]][.NET-url]
+[![andoid][andoid]][andoid-url]
+[![postgres][postgres]][postgres-url]
+[![cplusplus][cplusplus]][cplusplus-url]
 
 [Node.js-card]: https://img.shields.io/badge/-Node.js-80BC02?style=for-the-badge&logo=node.js&logoColor=black
 [Node.js-url]: https://nodejs.org/en
@@ -98,3 +102,15 @@ This is an example of a Node.js shield with its official color and written in bl
 
 [Windows]: https://img.shields.io/badge/Windows-0071C6?style=for-the-badge&logo=windows&logoColor=white
 [Windows-url]: https://www.microsoft.com/pt-br/windows/?r=1
+
+[.NET]: https://img.shields.io/badge/-.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=black
+[.NET-url]: https://dotnet.microsoft.com/en-us/
+
+[andoid]: https://img.shields.io/badge/-android-3DDC84?style=for-the-badge&logo=android&logoColor=black
+[andoid-url]: https://www.android.com/
+
+[postgres]: https://img.shields.io/badge/-postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=black
+[postgres-url]: https://www.postgresql.org/
+
+[cplusplus]: https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black
+[cplusplus-url]: https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170
