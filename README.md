@@ -142,7 +142,7 @@ This is an example of a Node.js shield with its official color and written in bl
 [railway]: https://img.shields.io/badge/railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white
 [railway-url]: https://railway.app/
 
-[mongo]: https://img.shields.io/badge/mongodb-5A29E4?style=for-the-badge&logo=mongodb&logoColor=white
+[mongo]: https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=black
 [mongo-url]: https://www.mongodb.com/
 
 [axios]: https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white
