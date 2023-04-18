@@ -5,7 +5,7 @@
 This is a shields.io template:
 
 ```bash
-[Node.js-card]: https://img.shields.io/badge/-<shieldName>-<hexColor>?style=for-the-badge&logo=<logoName>&logoColor=<textColor>
+[Node.js-card]: https://img.shields.io/badge/-<shieldName>-<hexColor>?style=for-the-badge&logo=<logoName>&logoColor=<logoColor>
 [Node.js-url]: https://nodejs.org/en
 ```
 
@@ -16,8 +16,8 @@ This is a shields.io template:
   - You can find the proper color searching for its name on [Simple Icons](https://simpleicons.org/).
 - logoName:
   - Its the name of the logo to be displayed. In my experience, if you cannot find it on Simple Icons, you also cannot find it on shields.io
-- textColor:
-  - Its the text color of shieldName.
+- logoColor:
+  - Its the logo color of the shield.
 
 This is an example of a Node.js shield with its official color and written in black:
 
@@ -39,7 +39,6 @@ This is an example of a Node.js shield with its official color and written in bl
 [![MYSQL][MYSQL]][MYSQL-url]
 [![Mocha][Mocha]][Mocha-url]
 [![Chai][Chai]][Chai-url]
-[![DOCKER][DOCKER]][DOCKER-url]
 [![EXPRESS][EXPRESS]][EXPRESS-url]
 [![REACT][REACT]][REACT-url]
 [![REDUX][REDUX]][REDUX-url]
@@ -151,6 +150,3 @@ This is an example of a Node.js shield with its official color and written in bl
 
 [Bash]: https://img.shields.io/badge/GNU_bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white
 [Bash-url]: https://www.gnu.org/software/bash/
-
-[Docker]: https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[Docker-url]: https://www.docker.com/
