@@ -17,7 +17,7 @@ This is a shields.io template:
 - logoName:
   - Its the name of the logo to be displayed. In my experience, if you cannot find it on Simple Icons, you also cannot find it on shields.io
 - logoColor:
-  - Its the text color of shield logo.
+  - Its the logo color of the shield.
 
 This is an example of a Node.js shield with its official color and written in black:
 
