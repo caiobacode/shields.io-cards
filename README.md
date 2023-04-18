@@ -1,17 +1,38 @@
 # Tecnologies cards to use in your README
 
-- <strong>Step 1</strong> - Copy the card, and url (this lines don't will apear in you README)
+- **Step 1** - Copy the card, and url (this lines don't will apear in you README)
+
+This is a shields.io template:
 
 ```bash
-[Node.js-card]: https://img.shields.io/badge/-Node.js-80BC02?style=for-the-badge&logo=node.js&logoColor=black
+[Node.js-card]: https://img.shields.io/badge/-<shieldName>-<hexColor>?style=for-the-badge&logo=<logoName>&logoColor=<textColor>
 [Node.js-url]: https://nodejs.org/en
 ```
-- <strong>Step 2</strong> - Create the card
+
+- shieldName:
+  - Its the name to de displayed on the shield.
+- hexColor:
+  - Its the hex color of the shield, without '#'.
+  - You can find the proper color searching for its name on [Simple Icons](https://simpleicons.org/).
+- logoName:
+  - Its the name of the logo to be displayed. In my experience, if you cannot find it on Simple Icons, you also cannot find it on shields.io
+- textColor:
+  - Its the text color of shieldName.
+
+This is an example of a Node.js shield with its official color and written in black:
+
+```bash
+[Node.js-card]: https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black
+[Node.js-url]: https://nodejs.org/en
+```
+
+- **Step 2** - Create the card
 
 ```bash
 [![Node.js][Node.js-card]][Node.js-url]
 ```
-## Result 
+
+## Result
 
 > [![Node.js][Node.js-card]][Node.js-url]
 [![JavaScript][JavaScript]][JavaScript-url]
@@ -36,15 +57,6 @@
 [JavaScript]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=node.js&logoColor=black
 [JavaScript-url]: https://www.javascript.com
 
-[Node.js]: https://img.shields.io/badge/-Node.js-80BC02?style=for-the-badge&logo=node.js&logoColor=black
-[Node.js-url]: https://nodejs.org/en
-
-[Git]: https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white
-[Git-url]: https://git-scm.com
-
-[GitHub]: https://img.shields.io/badge/git_hub-181717?style=for-the-badge&logo=github&logoColor=white
-[GitHub-url]: https://github.com
-
 [MYSQL]: https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white
 [MYSQL-url]: https://www.mysql.com
 
@@ -53,9 +65,6 @@
 
 [Chai]: https://img.shields.io/badge/chai-974942?style=for-the-badge&logo=chai&logoColor=white
 [Chai-url]: https://www.chaijs.com
-
-[NPM]: https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white
-[NPM-url]: https://www.npmjs.com
 
 [DOCKER]: https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white
 [DOCKER-url]: https://www.docker.com
