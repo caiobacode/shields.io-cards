@@ -5,7 +5,7 @@
 This is a shields.io template:
 
 ```bash
-[Node.js-card]: https://img.shields.io/badge/-<shieldName>-<hexColor>?style=for-the-badge&logo=<logoName>&logoColor=<textColor>
+[Node.js-card]: https://img.shields.io/badge/-<shieldName>-<hexColor>?style=for-the-badge&logo=<logoName>&logoColor=<logoColor>
 [Node.js-url]: https://nodejs.org/en
 ```
 
@@ -16,8 +16,8 @@ This is a shields.io template:
   - You can find the proper color searching for its name on [Simple Icons](https://simpleicons.org/).
 - logoName:
   - Its the name of the logo to be displayed. In my experience, if you cannot find it on Simple Icons, you also cannot find it on shields.io
-- textColor:
-  - Its the text color of shieldName.
+- logoColor:
+  - Its the text color of shield logo.
 
 This is an example of a Node.js shield with its official color and written in black:
 
