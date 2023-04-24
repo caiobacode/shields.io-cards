@@ -35,6 +35,7 @@ This is an example of a Node.js shield with its official color and written in bl
 ## Result
 
 > [![Node.js][Node.js-card]][Node.js-url]
+[![ESLINT.js][ESLINT]][ESLINT-url]
 [![JavaScript][JavaScript]][JavaScript-url]
 [![MYSQL][MYSQL]][MYSQL-url]
 [![Mocha][Mocha]][Mocha-url]
@@ -66,6 +67,9 @@ This is an example of a Node.js shield with its official color and written in bl
 
 [Node.js-card]: https://img.shields.io/badge/-Node.js-80BC02?style=for-the-badge&logo=node.js&logoColor=black
 [Node.js-url]: https://nodejs.org/en
+
+[ESLINT]: https://img.shields.io/badge/-Eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=black
+[ESLINT-url]: https://eslint.org
 
 [JavaScript]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=node.js&logoColor=black
 [JavaScript-url]: https://www.javascript.com
