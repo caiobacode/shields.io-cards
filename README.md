@@ -61,6 +61,7 @@ This is an example of a Node.js shield with its official color and written in bl
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![railway][railway]][railway-url]
 [![mongo][mongo]][mongo-url]
+[![mongoose][mongoose]][mongoose-url]
 [![axios][axios]][axios-url]
 [![Bash][Bash]][Bash-url]
 [![Docker][Docker]][Docker-url]
@@ -148,6 +149,9 @@ This is an example of a Node.js shield with its official color and written in bl
 
 [mongo]: https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=black
 [mongo-url]: https://www.mongodb.com/
+
+[mongoose]: https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=black
+[mongoose-url]: https://mongoosejs.com/
 
 [axios]: https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white
 [axios-url]: https://axios-http.com/ptbr/docs/intro
