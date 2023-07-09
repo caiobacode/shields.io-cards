@@ -67,6 +67,7 @@ This is an example of a Node.js shield with its official color and written in bl
 [![Bash][Bash]][Bash-url]
 [![Docker][Docker]][Docker-url]
 [![Spring][Spring]][Spring-url]
+[![SOCKET.IO][SOCKET.IO]][SOCKET.IO-url]
 
 [Node.js-card]: https://img.shields.io/badge/-Node.js-80BC02?style=for-the-badge&logo=node.js&logoColor=black
 [Node.js-url]: https://nodejs.org/en
@@ -166,3 +167,6 @@ This is an example of a Node.js shield with its official color and written in bl
 
 [Spring]: https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 [Spring-url]: https://spring.io
+
+[SOCKET.IO]: https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white
+[SOCKET.IO-url]: https://socket.io
